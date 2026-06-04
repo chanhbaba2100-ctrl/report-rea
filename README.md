@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28594149/README.md)
 # ReWear Blocks Business Proposal
 
 Interactive website-based proposal presentation for the fictional **ReWear Blocks | LEGO x Patagonia** concept.
